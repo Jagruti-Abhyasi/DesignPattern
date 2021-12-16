@@ -1,0 +1,9 @@
+﻿1) Entity class is using service object and that is wrong
+	Your service object shoul be using entity.
+	(IOC) Inversion of Control
+2) IOC means if you are dependent on someone and if something happen to that person, your world shakes off
+	But if somebody is dependent on you then it is different, so you are not dependent on him, 
+	so something happen to him then it does not matter to you 
+3) Agrrgeation Root
+	Modification happen through root.
+4) Agrrgeate root -  where in the contain object can only be modified via root

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UR3I2569dlSnWrllj+3uxv4QSq1yWKNZTp62qYYca44d0Dabt/rj+ByzgI92aIL01atedRs7pQaY3xGjCdcsMA==",
+  "success": true,
+  "projectFilePath": "D:\\DesignPattern_Project\\DesignPattern\\AggregateRoot\\AggregateRoot\\AggregateRoot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jdpat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
